@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\IOTandCC\u002B\u002Bcourses\\DevOps\\Exercise-Docker-Compose-Resources\\Resources\\01-03-05.TaskBoard-ASP.NET-App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC759849-6C9C-4CF7-94B0-40C679137CCC}|TaskBoard.WebApp\\TaskBoard.WebApp.csproj|c:\\iotandcc\u002B\u002Bcourses\\devops\\exercise-docker-compose-resources\\resources\\01-03-05.taskboard-asp.net-app\\taskboard.webapp\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CC759849-6C9C-4CF7-94B0-40C679137CCC}|TaskBoard.WebApp\\TaskBoard.WebApp.csproj|solutionrelative:taskboard.webapp\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\IOTandCC\u002B\u002Bcourses\\DevOps\\Exercise-Docker-Compose-Resources\\Resources\\01-03-05.TaskBoard-ASP.NET-App\\TaskBoard.WebApp\\Dockerfile",
+              "RelativeDocumentMoniker": "TaskBoard.WebApp\\Dockerfile",
+              "ToolTip": "C:\\IOTandCC\u002B\u002Bcourses\\DevOps\\Exercise-Docker-Compose-Resources\\Resources\\01-03-05.TaskBoard-ASP.NET-App\\TaskBoard.WebApp\\Dockerfile",
+              "RelativeToolTip": "TaskBoard.WebApp\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-13T18:20:18.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

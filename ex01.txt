@@ -1,0 +1,12 @@
+docker run -d --name mariadb_server --network mariadb_network -e MARIADB_USER=example-user -e MARIADB_PASSWORD=my_cool_secret -e MARIADB_DATABASE=exmple-database -e MARIADB_ROOT_PASSWORD=my-secret-pw mariadb:latest
+
+docker run -it --network mariadb_network --rm mariadb:latest mariadb -h mariadb_server -u example-user -p
+
+docker network create mariadb_network
+docker network ls
+docker run --d --name mariadb_server --network mariadb_network --e MARIADB_USER=example-user --e MARIADB_PASSWORD=my_cool_secret --e MARIADB_DATABASE=exmple-database --e MARIADB_ROOT_PASSWORD=my-secret-pw mariadb:latest
+docker login -u lpanov
+docker run -d --name mariadb_server --network mariadb_network -e MARIADB_USER=example-user -e MARIADB_PASSWORD=my_cool_secret -e MARIADB_DATABASE=exmple-database -e MARIADB_ROOT_PASSWORD=my-secret-pw mariadb:latest
+docker ps
+docker run -it --network mariadb_network --rm mariadb:latest mariadb -h mariadb_server -u example-user -p
+doskey /history > my_history.txt
